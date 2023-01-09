@@ -1,0 +1,14 @@
+Epoch 1/7
+98/98 - 2s - loss: 0.0239 - val_loss: 0.0081 - 2s/epoch - 20ms/step
+Epoch 2/7
+98/98 - 0s - loss: 0.0201 - val_loss: 0.0071 - 168ms/epoch - 2ms/step
+Epoch 3/7
+98/98 - 0s - loss: 0.0189 - val_loss: 0.0055 - 143ms/epoch - 1ms/step
+Epoch 4/7
+98/98 - 0s - loss: 0.0163 - val_loss: 0.0051 - 152ms/epoch - 2ms/step
+Epoch 5/7
+98/98 - 0s - loss: 0.0141 - val_loss: 0.0048 - 158ms/epoch - 2ms/step
+Epoch 6/7
+98/98 - 0s - loss: 0.0132 - val_loss: 0.0042 - 139ms/epoch - 1ms/step
+Epoch 7/7
+98/98 - 0s - loss: 0.0105 - val_loss: 0.0048 - 154ms/epoch - 2ms/step
